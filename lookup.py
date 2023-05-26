@@ -1,12 +1,3 @@
-'''
-Open the file "Aspects of the submission that could be improved.docx"
-
-Aspects of the submission that could be improved
-Unfortunately, your data doesn't write to any files at all. well done for fixing the error mentioned in the preceding review.
-Please make these corrections and resubmit, and I'll take another look.
-
-That is not true.
-'''
 
 
 # Import Libraries
